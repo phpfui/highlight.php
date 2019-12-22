@@ -2,6 +2,7 @@
 languages.dat
 lib_dojo/
 lib_highlight/
+lib_repos/
 *.tar.gz
 vendor/
 composer.lock
